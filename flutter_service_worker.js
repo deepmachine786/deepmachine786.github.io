@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8217f1ee79cc1744cb4157e7c9edbf23",
-"assets/AssetManifest.json": "1fc685a108f3fcbc33c4d23b6bd79831",
+const RESOURCES = {"assets/AssetManifest.bin": "1efb3278d8cfe1557aac31e4e835ddc4",
+"assets/AssetManifest.json": "0b390c1501092b9877a22a7f820e714f",
+"assets/assets/page-1/images/arrow_forward.png": "927534c6b5143fd1a6f0d93f0b7cf2f8",
 "assets/assets/page-1/images/download.jpeg": "66b6b5e211fc366336521b8ad69c9ffc",
 "assets/assets/page-1/images/favicon.png": "cc7c1a562a0c2bd5001855962fa3943a",
 "assets/assets/page-1/images/firstimage.png": "fa82e4c7417638e1fdc56b088789286c",
@@ -26,6 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8217f1ee79cc1744cb4157e7c9edbf23
 "assets/assets/page-1/images/lpu_logo_6.jpeg": "caec4155064ef77d56f53bc4d354bb55",
 "assets/assets/page-1/images/Md_Shahid_Style.png": "933d1d879f227db9d82d57ebbb03adbc",
 "assets/assets/page-1/images/new_last.png": "a2a075fb01347cb416f34aa16cb2900b",
+"assets/assets/page-1/images/new_resume_pic.jpeg": "29899acd3eb5742d4f73182d5cd328e7",
 "assets/assets/page-1/images/port.png": "4749eb7a44db0ef78dca65884d50a240",
 "assets/assets/page-1/images/profile.png": "e459835010bf256bf5e3f7423b43bc51",
 "assets/assets/page-1/images/p_logos.png": "770f75f94837539eae9fd3144b47ec4f",
@@ -50,6 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "8217f1ee79cc1744cb4157e7c9edbf23
 "assets/assets/page-1/images/rectangle-7.png": "98d006fc8e30d0426c56bcff7e05b6e0",
 "assets/assets/page-1/images/rectangle-8.png": "008068ecf7c4b4224642e9217c29b6df",
 "assets/assets/page-1/images/rectangle-9.png": "974d7989c4fa8a3cf0334919e2ea92c6",
+"assets/assets/page-1/images/regent_1.jpg": "cece3fc789887b386d1279e9ec587253",
+"assets/assets/page-1/images/regent_2.jpeg": "388ecc850af0a355136622c58f8d87a9",
+"assets/assets/page-1/images/regent_3.jpeg": "2701d487759717b3f4a37253abe016ec",
 "assets/assets/page-1/images/rq6fpwdusahwtmc0eila-wwxa2yhjbatidpjvuti5qadkncuhwflyhir8m0zgwis46pkhk7f133lvgt0xw3vlvw72c9yjwpxegbv5yb6m81prd4ii-yw252-rw-e365-v1.png": "ee56e0c6d248b09a0677b542506d8dc7",
 "assets/assets/page-1/images/scrollbutton.png": "1d24869ffc1f8984f8a7c93edfbb882e",
 "assets/assets/page-1/images/whatsapp.png": "c2da9b9b4ea95806d2301b1c3daa9341",
@@ -72,9 +77,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "8217f1ee79cc1744cb4157e7c9edbf23
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3c992757dc29280d2d989b11b4b23a24",
-"/": "3c992757dc29280d2d989b11b4b23a24",
-"main.dart.js": "3be2f393cb9f6f4cd99e35b77b8cd648",
+"index.html": "182117c0aecec400928cbf7131f840fd",
+"/": "182117c0aecec400928cbf7131f840fd",
+"main.dart.js": "732e1d916cfed19371eac21c314e008b",
 "manifest.json": "59dfbfedc997b3976a9d979324922396",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5"};
 // The application shell files that are downloaded before a service worker can
