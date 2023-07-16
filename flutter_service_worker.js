@@ -3,10 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1efb3278d8cfe1557aac31e4e835ddc4",
-"assets/AssetManifest.json": "0b390c1501092b9877a22a7f820e714f",
+const RESOURCES = {"assets/AssetManifest.bin": "58f337e3c44ec3246f500a89954184da",
+"assets/AssetManifest.json": "46f56160dadd163eaca44da451cf1897",
 "assets/assets/page-1/images/arrow_forward.png": "927534c6b5143fd1a6f0d93f0b7cf2f8",
 "assets/assets/page-1/images/download.jpeg": "66b6b5e211fc366336521b8ad69c9ffc",
+"assets/assets/page-1/images/email_icon.jpg": "ff26e35a2dfb19d94f3f1e56d6aacce0",
+"assets/assets/page-1/images/email_icon.png": "139cb06885b51dccff7415a539bc4131",
 "assets/assets/page-1/images/favicon.png": "cc7c1a562a0c2bd5001855962fa3943a",
 "assets/assets/page-1/images/firstimage.png": "fa82e4c7417638e1fdc56b088789286c",
 "assets/assets/page-1/images/first_port_1.png": "e48184f67931db8eda0b705e1bc14657",
@@ -57,7 +59,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "1efb3278d8cfe1557aac31e4e835ddc4
 "assets/assets/page-1/images/regent_3.jpeg": "2701d487759717b3f4a37253abe016ec",
 "assets/assets/page-1/images/rq6fpwdusahwtmc0eila-wwxa2yhjbatidpjvuti5qadkncuhwflyhir8m0zgwis46pkhk7f133lvgt0xw3vlvw72c9yjwpxegbv5yb6m81prd4ii-yw252-rw-e365-v1.png": "ee56e0c6d248b09a0677b542506d8dc7",
 "assets/assets/page-1/images/scrollbutton.png": "1d24869ffc1f8984f8a7c93edfbb882e",
+"assets/assets/page-1/images/todo.png": "1a2bfbc93c53425c605c1725c4fa8711",
+"assets/assets/page-1/images/todo1.png": "7b4a88cbac633ab51e4d744ae6e89b38",
+"assets/assets/page-1/images/Transare.png": "2856e300c9f78367c2dc3befafdd0b05",
+"assets/assets/page-1/images/transare1.png": "dcec303b97ed0aa9ced705eb60e65772",
 "assets/assets/page-1/images/whatsapp.png": "c2da9b9b4ea95806d2301b1c3daa9341",
+"assets/assets/page-1/images/WorkSuitkit.png": "c86e286698051939de1ef5006fa31f34",
+"assets/assets/page-1/images/worksuitkit1.png": "e8857fd00d048bd3255ff37b0141106f",
 "assets/FontManifest.json": "2ded4e86ed7adbefb3d9625511b0b387",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/fonts/Product%2520Sans%2520Regular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
@@ -77,9 +85,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "1efb3278d8cfe1557aac31e4e835ddc4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "182117c0aecec400928cbf7131f840fd",
-"/": "182117c0aecec400928cbf7131f840fd",
-"main.dart.js": "732e1d916cfed19371eac21c314e008b",
+"index.html": "4d90f97fc432da4661bc01923597cc80",
+"/": "4d90f97fc432da4661bc01923597cc80",
+"main.dart.js": "e3f8f8d03ec901d7ef9a38fb486b3430",
 "manifest.json": "59dfbfedc997b3976a9d979324922396",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5"};
 // The application shell files that are downloaded before a service worker can
