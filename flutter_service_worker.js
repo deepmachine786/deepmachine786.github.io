@@ -3,10 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "812a978e7981c8081b8eda4619a2405d",
-"assets/AssetManifest.json": "d061bf1db4d00f99e58111d582257440",
+const RESOURCES = {"assets/AssetManifest.bin": "f0b592d78ea6488475aed51353d946a7",
+"assets/AssetManifest.json": "413a409e44ffe76f48ed34c344c8fe55",
 "assets/assets/page-1/images/arrow_forward.png": "927534c6b5143fd1a6f0d93f0b7cf2f8",
+"assets/assets/page-1/images/Bavch_Edutech_images.png": "d7510ab2e068dc796656d29e73fc51b3",
 "assets/assets/page-1/images/bit_slider.png": "5279e56474c32cfb1af412b6bb0b05c8",
+"assets/assets/page-1/images/CodeClause_images.png": "d9843d4c3dd639f5013efe64303cf2e1",
 "assets/assets/page-1/images/download.jpeg": "66b6b5e211fc366336521b8ad69c9ffc",
 "assets/assets/page-1/images/email_icon.jpg": "ff26e35a2dfb19d94f3f1e56d6aacce0",
 "assets/assets/page-1/images/email_icon.png": "139cb06885b51dccff7415a539bc4131",
@@ -86,9 +88,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "812a978e7981c8081b8eda4619a2405d
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "eaa32427b7f3fe15da1fb5667a8c8d37",
-"/": "eaa32427b7f3fe15da1fb5667a8c8d37",
-"main.dart.js": "49c45f8de3105e814d393ef65da5d6f2",
+"index.html": "4eaf8ae2bdea7ae3296eebeaa8f75478",
+"/": "4eaf8ae2bdea7ae3296eebeaa8f75478",
+"main.dart.js": "3b4de331e9638c52e0975beb41fde346",
 "manifest.json": "59dfbfedc997b3976a9d979324922396",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5"};
 // The application shell files that are downloaded before a service worker can
